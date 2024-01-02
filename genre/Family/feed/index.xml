@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Family &#8211; movie</title>
+	<atom:link href="https://sai7093.github.io/movienow/genre/family/feed/" rel="self" type="application/rss+xml" />
+	<link>https://sai7093.github.io/movienow</link>
+	<description>movie store</description>
+	<lastBuildDate>Sun, 31 Dec 2023 20:19:49 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>My Neighbor Totoro</title>
+		<link>https://sai7093.github.io/movienow/movie/my-neighbor-totoro/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 31 Dec 2023 13:46:32 +0000</pubDate>
+				<guid isPermaLink="false">https://sai7093.github.io/movienow/?post_type=movie#038;p=586</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>The Secret World of Arrietty</title>
+		<link>https://sai7093.github.io/movienow/movie/the-secret-world-of-arrietty/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 31 Dec 2023 13:43:17 +0000</pubDate>
+				<guid isPermaLink="false">https://sai7093.github.io/movienow/?post_type=movie#038;p=585</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Spirited Away</title>
+		<link>https://sai7093.github.io/movienow/movie/spirited-away/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 31 Dec 2023 11:21:38 +0000</pubDate>
+				<guid isPermaLink="false">https://sai7093.github.io/movienow/?post_type=movie#038;p=558</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Coco</title>
+		<link>https://sai7093.github.io/movienow/movie/coco/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 31 Dec 2023 10:56:46 +0000</pubDate>
+				<guid isPermaLink="false">https://sai7093.github.io/movienow/?post_type=movie#038;p=553</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Ratatouille</title>
+		<link>https://sai7093.github.io/movienow/movie/ratatouille/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 30 Dec 2023 18:44:28 +0000</pubDate>
+				<guid isPermaLink="false">https://sai7093.github.io/movienow/?post_type=movie#038;p=546</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Wall-E</title>
+		<link>https://sai7093.github.io/movienow/movie/wall-e/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 30 Dec 2023 18:37:26 +0000</pubDate>
+				<guid isPermaLink="false">https://sai7093.github.io/movienow/?post_type=movie#038;p=544</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

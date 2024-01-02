@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mystery &#8211; movie</title>
+	<atom:link href="https://sai7093.github.io/movienow/genre/mystery/feed/" rel="self" type="application/rss+xml" />
+	<link>https://sai7093.github.io/movienow</link>
+	<description>movie store</description>
+	<lastBuildDate>Sun, 31 Dec 2023 20:19:48 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Paprika</title>
+		<link>https://sai7093.github.io/movienow/movie/paprika/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 31 Dec 2023 12:47:00 +0000</pubDate>
+				<guid isPermaLink="false">https://sai7093.github.io/movienow/?post_type=movie#038;p=580</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Perfect Blue</title>
+		<link>https://sai7093.github.io/movienow/movie/perfect-blue/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 31 Dec 2023 12:05:22 +0000</pubDate>
+				<guid isPermaLink="false">https://sai7093.github.io/movienow/?post_type=movie#038;p=578</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>The Usual Suspects</title>
+		<link>https://sai7093.github.io/movienow/movie/the-usual-suspects/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 29 Dec 2023 14:01:47 +0000</pubDate>
+				<guid isPermaLink="false">https://sai7093.github.io/movienow/?post_type=movie#038;p=418</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>History &#8211; movie</title>
+	<atom:link href="https://sai7093.github.io/movienow/genre/history/feed/" rel="self" type="application/rss+xml" />
+	<link>https://sai7093.github.io/movienow</link>
+	<description>movie store</description>
+	<lastBuildDate>Sat, 30 Dec 2023 16:50:04 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Schindler&#8217;s List</title>
+		<link>https://sai7093.github.io/movienow/movie/schindlers-list/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 29 Dec 2023 12:35:54 +0000</pubDate>
+				<guid isPermaLink="false">https://sai7093.github.io/movienow/?post_type=movie#038;p=403</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
