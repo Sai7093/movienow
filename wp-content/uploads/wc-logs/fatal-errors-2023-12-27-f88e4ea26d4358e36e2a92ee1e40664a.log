@@ -1,0 +1,57 @@
+2023-12-27T23:53:23+00:00 CRITICAL Uncaught WC_Data_Exception: Invalid billing email address in C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:880
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\includes\class-wc-customer.php(1026): WC_Data->error('customer_invali...', 'Invalid billing...')
+#1 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(114): WC_Customer->set_billing_email('admin@localhost')
+#2 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\includes\class-wc-customer.php(125): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\includes\class-woocommerce.php(840): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2550): WooCommerce->initialize_cart()
+#6 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\includes\class-woocommerce.php(659): wc_load_cart()
+#7 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): WooCommerce->init('')
+#8 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#9 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#10 C:\xampp\htdocs\site3\wp-settings.php(643): do_action('init')
+#11 C:\xampp\htdocs\site3\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#12 C:\xampp\htdocs\site3\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#13 C:\xampp\htdocs\site3\wp-login.php(12): require('C:\\xampp\\htdocs...')
+#14 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php on line 880
+
+2023-12-27T23:53:23+00:00 CRITICAL Uncaught WC_Data_Exception: Invalid billing email address in C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:880
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\includes\class-wc-customer.php(1026): WC_Data->error('customer_invali...', 'Invalid billing...')
+#1 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(114): WC_Customer->set_billing_email('admin@localhost')
+#2 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\includes\class-wc-customer.php(125): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\includes\class-woocommerce.php(840): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2550): WooCommerce->initialize_cart()
+#6 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\includes\class-woocommerce.php(659): wc_load_cart()
+#7 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): WooCommerce->init('')
+#8 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#9 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#10 C:\xampp\htdocs\site3\wp-settings.php(643): do_action('init')
+#11 C:\xampp\htdocs\site3\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#12 C:\xampp\htdocs\site3\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#13 C:\xampp\htdocs\site3\wp-login.php(12): require('C:\\xampp\\htdocs...')
+#14 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php on line 880
+
+2023-12-27T23:53:56+00:00 CRITICAL Uncaught WC_Data_Exception: Invalid billing email address in C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:880
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\includes\class-wc-customer.php(1026): WC_Data->error('customer_invali...', 'Invalid billing...')
+#1 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(114): WC_Customer->set_billing_email('admin@localhost')
+#2 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\includes\class-wc-customer.php(125): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\includes\class-woocommerce.php(840): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2550): WooCommerce->initialize_cart()
+#6 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\includes\class-woocommerce.php(659): wc_load_cart()
+#7 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): WooCommerce->init('')
+#8 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#9 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#10 C:\xampp\htdocs\site3\wp-settings.php(643): do_action('init')
+#11 C:\xampp\htdocs\site3\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#12 C:\xampp\htdocs\site3\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#13 C:\xampp\htdocs\site3\wp-login.php(12): require('C:\\xampp\\htdocs...')
+#14 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php on line 880
+
